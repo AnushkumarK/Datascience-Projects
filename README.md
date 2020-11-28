@@ -1,2 +1,2 @@
-# datascience-learnings
+# Datascience-Projects
 All DS projects and assignments
